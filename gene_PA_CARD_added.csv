@@ -1,0 +1,58 @@
+Gene,DRR127476_bin.16,DRR127514_bin.3,DRR127619_bin.11,DRR127718_bin.11,DRR127720_bin.6,DRR127752_bin.18_sub,DRR127755_bin.21,MH_sensitive_DRR127478_SemiBin_56,MH_sensitive_DRR127532_SemiBin_33,MH_sensitive_DRR127537_SemiBin_56,MH_sensitive_DRR127557_SemiBin_47,MH_sensitive_DRR127567_SemiBin_19,MH_sensitive_DRR127647_SemiBin_28,MH_sensitive_DRR127692_SemiBin_11,MH_sensitive_DRR127708_SemiBin_52,MH_sensitive_DRR127721_SemiBin_53,MH_sensitive_DRR127736_SemiBin_32,MH_sensitive_DRR127751_SemiBin_5,MH_sensitive_DRR171465_SemiBin_39,Resistance Mechanism,CARD Short Name,Drug Class
+gnl|Prokka|KIDIHNBK_04184,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,1,antibiotic target alteration,ugd,peptide antibiotic
+gnl|Prokka|HCDLLMMA_00654,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,antibiotic efflux,baeR,aminocoumarin antibiotic;aminoglycoside antibiotic
+gnl|Prokka|AKEAHCKB_01257,1,1,1,0,1,0,1,0,1,0,1,1,1,0,0,1,1,1,0,antibiotic efflux,mdtM,disinfecting agents and antiseptics;fluoroquinolone antibiotic;lincosamide antibiotic;nucleoside antibiotic;phenicol antibiotic
+gnl|Prokka|AKEAHCKB_01481,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,antibiotic efflux,TolC,aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penam;penem;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|JDDPIIHO_00090,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,antibiotic inactivation,EC-5,cephalosporin
+gnl|Prokka|IAHBEFHN_00399,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,CRP,fluoroquinolone antibiotic;macrolide antibiotic;penam
+gnl|Prokka|KIDIHNBK_01411,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic target alteration,vanG,glycopeptide antibiotic
+gnl|Prokka|NKEMDPIE_00325,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux;antibiotic target alteration;reduced permeability to antibiotic,Ecol_soxS_MULT,carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penam;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|IAHBEFHN_03719,0,1,0,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,1,antibiotic efflux,Ecol_emrE,macrolide antibiotic
+gnl|Prokka|HIPMDEKK_01723,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,mdtP,disinfecting agents and antiseptics;nucleoside antibiotic
+gnl|Prokka|KIDIHNBK_04380,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic target alteration,Ecol_gyrA_FLO,fluoroquinolone antibiotic;nybomycin-like antibiotic
+gnl|Prokka|AKEAHCKB_03729,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,antibiotic inactivation,TEM-1,cephalosporin;monobactam;penam;penem
+gnl|Prokka|MKNIKEAA_03299,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,msbA,nitroimidazole antibiotic
+gnl|Prokka|NGKABENH_03749,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,YojI,peptide antibiotic
+gnl|Prokka|NKEMDPIE_00750,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,antibiotic target alteration,bacA,peptide antibiotic
+gnl|Prokka|NKEMDPIE_02176,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic target alteration,ArnT,peptide antibiotic
+gnl|Prokka|PJBPACPC_04055,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,mdtE,fluoroquinolone antibiotic;macrolide antibiotic;penam
+gnl|Prokka|LGNBBEFE_00380,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,Kpne_KpnE,aminoglycoside antibiotic;cephalosporin;disinfecting agents and antiseptics;macrolide antibiotic;peptide antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|JDDPIIHO_02353,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,antibiotic target alteration,Ecol_EFTu_PLV,elfamycin antibiotic
+gnl|Prokka|PLJPCPFJ_00344,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,cpxA,aminocoumarin antibiotic;aminoglycoside antibiotic
+gnl|Prokka|LGNBBEFE_03362,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,emrB,fluoroquinolone antibiotic
+gnl|Prokka|ICHPHMKM_03170,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,evgS,fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic
+gnl|Prokka|PLJPCPFJ_04345,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,emrK,tetracycline antibiotic
+gnl|Prokka|LGNBBEFE_04216,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,kdpE,aminoglycoside antibiotic
+gnl|Prokka|JCIDEFIG_00853,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,mdtH,fluoroquinolone antibiotic
+gnl|Prokka|PJBPACPC_04054,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,mdtF,fluoroquinolone antibiotic;macrolide antibiotic;penam
+gnl|Prokka|JCIDEFIG_01792,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux;antibiotic target alteration,Ecol_soxR_MULT,cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|NKEMDPIE_00298,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,mdtO,disinfecting agents and antiseptics;nucleoside antibiotic
+gnl|Prokka|JDDPIIHO_03413,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,gadX,fluoroquinolone antibiotic;macrolide antibiotic;penam
+gnl|Prokka|COAKLHLB_00823,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,acrD,aminoglycoside antibiotic
+gnl|Prokka|LGNBBEFE_03074,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,mdtN,disinfecting agents and antiseptics;nucleoside antibiotic
+gnl|Prokka|PLJPCPFJ_03763,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,emrR,fluoroquinolone antibiotic
+gnl|Prokka|AKEAHCKB_01319,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux;antibiotic target alteration,Ecol_AcrR_MULT,cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|AKEAHCKB_01838,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,emrA,fluoroquinolone antibiotic
+gnl|Prokka|BNGDJCLN_01136,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,antibiotic efflux,AcrE,cephalosporin;cephamycin;fluoroquinolone antibiotic;penam
+gnl|Prokka|NGKABENH_03885,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,1,antibiotic efflux,mdtA,aminocoumarin antibiotic
+gnl|Prokka|AKEAHCKB_03735,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,antibiotic target protection,QnrS1,fluoroquinolone antibiotic
+gnl|Prokka|LKCJGGKA_03889,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux;reduced permeability to antibiotic,marA,carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penam;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|MKNIKEAA_00690,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,antibiotic efflux,H-NS,cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic
+gnl|Prokka|BNGDJCLN_01135,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,antibiotic efflux,AcrS,cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|BNGDJCLN_01235,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic target alteration,eptA,peptide antibiotic
+gnl|Prokka|BNGDJCLN_01303,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,rsmA,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic
+gnl|Prokka|BNGDJCLN_02311,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,Ecol_mdfA,disinfecting agents and antiseptics;tetracycline antibiotic
+gnl|Prokka|BNGDJCLN_03556,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic target alteration,Ecol_GlpT_FOF,phosphonic acid antibiotic
+gnl|Prokka|BNGDJCLN_03749,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,antibiotic efflux,mdtC,aminocoumarin antibiotic
+gnl|Prokka|PLJPCPFJ_04344,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,evgA,fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic
+gnl|Prokka|BNGDJCLN_03750,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,antibiotic efflux,mdtB,aminocoumarin antibiotic
+gnl|Prokka|AKEAHCKB_00445,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,antibiotic efflux,qacJ,disinfecting agents and antiseptics
+gnl|Prokka|MKNIKEAA_02840,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic target alteration,Hinf_PBP3_BLA,carbapenem;cephalosporin;cephamycin;monobactam;penam
+gnl|Prokka|LGNBBEFE_00381,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,Kpne_KpnF,aminoglycoside antibiotic;cephalosporin;disinfecting agents and antiseptics;macrolide antibiotic;peptide antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|NGKABENH_00756,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,emrY,tetracycline antibiotic
+gnl|Prokka|IAHBEFHN_01152,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,mdtG,phosphonic acid antibiotic
+gnl|Prokka|COAKLHLB_00266,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic target alteration,PmrF,peptide antibiotic
+gnl|Prokka|PJBPACPC_04053,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,gadW,fluoroquinolone antibiotic;macrolide antibiotic;penam
+gnl|Prokka|NKEMDPIE_02436,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,leuO,disinfecting agents and antiseptics;nucleoside antibiotic
+gnl|Prokka|AKEAHCKB_01320,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux,Ecol_acrA,cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+gnl|Prokka|JDDPIIHO_01734,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,antibiotic efflux;antibiotic target alteration,Ecol_MarR_MULT,cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic

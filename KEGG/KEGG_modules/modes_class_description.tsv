@@ -1,0 +1,479 @@
+M00001	Carbohydrate metabolism	Central carbohydrate metabolism
+M00002	Carbohydrate metabolism	Central carbohydrate metabolism
+M00003	Carbohydrate metabolism	Central carbohydrate metabolism
+M00004	Carbohydrate metabolism	Central carbohydrate metabolism
+M00005	Carbohydrate metabolism	Central carbohydrate metabolism
+M00006	Carbohydrate metabolism	Central carbohydrate metabolism
+M00007	Carbohydrate metabolism	Central carbohydrate metabolism
+M00008	Carbohydrate metabolism	Central carbohydrate metabolism
+M00009	Carbohydrate metabolism	Central carbohydrate metabolism
+M00010	Carbohydrate metabolism	Central carbohydrate metabolism
+M00011	Carbohydrate metabolism	Central carbohydrate metabolism
+M00012	Carbohydrate metabolism	Other carbohydrate metabolism
+M00013	Carbohydrate metabolism	Other carbohydrate metabolism
+M00014	Carbohydrate metabolism	Other carbohydrate metabolism
+M00015	Amino acid metabolism	Arginine and proline metabolism
+M00016	Amino acid metabolism	Lysine metabolism
+M00017	Amino acid metabolism	Cysteine and methionine metabolism
+M00018	Amino acid metabolism	Serine and threonine metabolism
+M00019	Amino acid metabolism	Branched-chain amino acid metabolism
+M00020	Amino acid metabolism	Serine and threonine metabolism
+M00021	Amino acid metabolism	Cysteine and methionine metabolism
+M00022	Amino acid metabolism	Aromatic amino acid metabolism
+M00023	Amino acid metabolism	Aromatic amino acid metabolism
+M00024	Amino acid metabolism	Aromatic amino acid metabolism
+M00025	Amino acid metabolism	Aromatic amino acid metabolism
+M00026	Amino acid metabolism	Histidine metabolism
+M00027	Amino acid metabolism	Other amino acid metabolism
+M00028	Amino acid metabolism	Arginine and proline metabolism
+M00029	Amino acid metabolism	Arginine and proline metabolism
+M00030	Amino acid metabolism	Lysine metabolism
+M00031	Amino acid metabolism	Lysine metabolism
+M00032	Amino acid metabolism	Lysine metabolism
+M00033	Amino acid metabolism	Serine and threonine metabolism
+M00034	Amino acid metabolism	Cysteine and methionine metabolism
+M00035	Amino acid metabolism	Cysteine and methionine metabolism
+M00036	Amino acid metabolism	Branched-chain amino acid metabolism
+M00037	Amino acid metabolism	Aromatic amino acid metabolism
+M00038	Amino acid metabolism	Aromatic amino acid metabolism
+M00039	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00040	Amino acid metabolism	Aromatic amino acid metabolism
+M00042	Amino acid metabolism	Aromatic amino acid metabolism
+M00043	Amino acid metabolism	Aromatic amino acid metabolism
+M00044	Amino acid metabolism	Aromatic amino acid metabolism
+M00045	Amino acid metabolism	Histidine metabolism
+M00046	Nucleotide metabolism	Pyrimidine metabolism
+M00047	Amino acid metabolism	Arginine and proline metabolism
+M00048	Nucleotide metabolism	Purine metabolism
+M00049	Nucleotide metabolism	Purine metabolism
+M00050	Nucleotide metabolism	Purine metabolism
+M00051	Nucleotide metabolism	Pyrimidine metabolism
+M00052	Nucleotide metabolism	Pyrimidine metabolism
+M00053	Nucleotide metabolism	Purine metabolism
+M00055	Glycan metabolism	Glycan biosynthesis
+M00056	Glycan metabolism	Glycan biosynthesis
+M00057	Glycan metabolism	Glycosaminoglycan metabolism
+M00058	Glycan metabolism	Glycosaminoglycan metabolism
+M00059	Glycan metabolism	Glycosaminoglycan metabolism
+M00060	Glycan metabolism	Lipopolysaccharide metabolism
+M00061	Carbohydrate metabolism	Other carbohydrate metabolism
+M00063	Glycan metabolism	Lipopolysaccharide metabolism
+M00064	Glycan metabolism	Lipopolysaccharide metabolism
+M00065	Glycan metabolism	Glycan biosynthesis
+M00066	Lipid metabolism	Lipid metabolism
+M00067	Lipid metabolism	Lipid metabolism
+M00068	Glycan metabolism	Glycan biosynthesis
+M00069	Glycan metabolism	Glycan biosynthesis
+M00070	Glycan metabolism	Glycan biosynthesis
+M00071	Glycan metabolism	Glycan biosynthesis
+M00072	Glycan metabolism	Glycan biosynthesis
+M00073	Glycan metabolism	Glycan biosynthesis
+M00074	Glycan metabolism	Glycan biosynthesis
+M00075	Glycan metabolism	Glycan biosynthesis
+M00076	Glycan metabolism	Glycosaminoglycan metabolism
+M00077	Glycan metabolism	Glycosaminoglycan metabolism
+M00078	Glycan metabolism	Glycosaminoglycan metabolism
+M00079	Glycan metabolism	Glycosaminoglycan metabolism
+M00081	Carbohydrate metabolism	Other carbohydrate metabolism
+M00082	Lipid metabolism	Fatty acid metabolism
+M00083	Lipid metabolism	Fatty acid metabolism
+M00085	Lipid metabolism	Fatty acid metabolism
+M00086	Lipid metabolism	Fatty acid metabolism
+M00087	Lipid metabolism	Fatty acid metabolism
+M00088	Lipid metabolism	Lipid metabolism
+M00089	Lipid metabolism	Lipid metabolism
+M00090	Lipid metabolism	Lipid metabolism
+M00091	Lipid metabolism	Lipid metabolism
+M00092	Lipid metabolism	Lipid metabolism
+M00093	Lipid metabolism	Lipid metabolism
+M00094	Lipid metabolism	Lipid metabolism
+M00095	Biosynthesis of terpenoids and polyketides	Terpenoid backbone biosynthesis
+M00096	Biosynthesis of terpenoids and polyketides	Terpenoid backbone biosynthesis
+M00097	Biosynthesis of terpenoids and polyketides	Plant terpenoid biosynthesis
+M00098	Lipid metabolism	Lipid metabolism
+M00099	Lipid metabolism	Lipid metabolism
+M00100	Lipid metabolism	Lipid metabolism
+M00101	Lipid metabolism	Sterol biosynthesis
+M00102	Lipid metabolism	Sterol biosynthesis
+M00103	Lipid metabolism	Sterol biosynthesis
+M00104	Lipid metabolism	Sterol biosynthesis
+M00106	Lipid metabolism	Sterol biosynthesis
+M00107	Lipid metabolism	Sterol biosynthesis
+M00108	Lipid metabolism	Sterol biosynthesis
+M00109	Lipid metabolism	Sterol biosynthesis
+M00110	Lipid metabolism	Sterol biosynthesis
+M00112	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00113	Lipid metabolism	Lipid metabolism
+M00114	Carbohydrate metabolism	Other carbohydrate metabolism
+M00115	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00116	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00117	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00118	Amino acid metabolism	Other amino acid metabolism
+M00119	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00120	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00121	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00122	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00123	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00124	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00125	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00126	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00127	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00128	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00129	Carbohydrate metabolism	Other carbohydrate metabolism
+M00130	Carbohydrate metabolism	Other carbohydrate metabolism
+M00131	Carbohydrate metabolism	Other carbohydrate metabolism
+M00132	Carbohydrate metabolism	Other carbohydrate metabolism
+M00133	Amino acid metabolism	Polyamine biosynthesis
+M00134	Amino acid metabolism	Polyamine biosynthesis
+M00135	Amino acid metabolism	Polyamine biosynthesis
+M00136	Amino acid metabolism	Polyamine biosynthesis
+M00137	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00138	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00140	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00141	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00142	Energy metabolism	ATP synthesis
+M00143	Energy metabolism	ATP synthesis
+M00144	Energy metabolism	ATP synthesis
+M00145	Energy metabolism	ATP synthesis
+M00146	Energy metabolism	ATP synthesis
+M00147	Energy metabolism	ATP synthesis
+M00148	Energy metabolism	ATP synthesis
+M00149	Energy metabolism	ATP synthesis
+M00150	Energy metabolism	ATP synthesis
+M00151	Energy metabolism	ATP synthesis
+M00152	Energy metabolism	ATP synthesis
+M00153	Energy metabolism	ATP synthesis
+M00154	Energy metabolism	ATP synthesis
+M00155	Energy metabolism	ATP synthesis
+M00156	Energy metabolism	ATP synthesis
+M00157	Energy metabolism	ATP synthesis
+M00158	Energy metabolism	ATP synthesis
+M00159	Energy metabolism	ATP synthesis
+M00160	Energy metabolism	ATP synthesis
+M00161	Energy metabolism	Photosynthesis
+M00162	Energy metabolism	ATP synthesis
+M00163	Energy metabolism	Photosynthesis
+M00165	Energy metabolism	Carbon fixation
+M00168	Energy metabolism	Carbon fixation
+M00169	Energy metabolism	Carbon fixation
+M00170	Energy metabolism	Carbon fixation
+M00171	Energy metabolism	Carbon fixation
+M00172	Energy metabolism	Carbon fixation
+M00173	Energy metabolism	Carbon fixation
+M00174	Energy metabolism	Methane metabolism
+M00175	Energy metabolism	Nitrogen metabolism
+M00176	Energy metabolism	Sulfur metabolism
+M00307	Carbohydrate metabolism	Central carbohydrate metabolism
+M00308	Carbohydrate metabolism	Central carbohydrate metabolism
+M00309	Carbohydrate metabolism	Central carbohydrate metabolism
+M00338	Amino acid metabolism	Cysteine and methionine metabolism
+M00344	Energy metabolism	Methane metabolism
+M00345	Energy metabolism	Methane metabolism
+M00346	Energy metabolism	Methane metabolism
+M00356	Energy metabolism	Methane metabolism
+M00357	Energy metabolism	Methane metabolism
+M00358	Energy metabolism	Methane metabolism
+M00363 Signature modules	Gene set	Pathogenicity
+M00364	Biosynthesis of terpenoids and polyketides	Terpenoid backbone biosynthesis
+M00365	Biosynthesis of terpenoids and polyketides	Terpenoid backbone biosynthesis
+M00366	Biosynthesis of terpenoids and polyketides	Terpenoid backbone biosynthesis
+M00367	Biosynthesis of terpenoids and polyketides	Terpenoid backbone biosynthesis
+M00368	Amino acid metabolism	Cysteine and methionine metabolism
+M00369	Amino acid metabolism	Other amino acid metabolism
+M00370	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00371	Biosynthesis of terpenoids and polyketides	Plant terpenoid biosynthesis
+M00372	Biosynthesis of terpenoids and polyketides	Plant terpenoid biosynthesis
+M00373	Carbohydrate metabolism	Other carbohydrate metabolism
+M00374	Energy metabolism	Carbon fixation
+M00375	Energy metabolism	Carbon fixation
+M00376	Energy metabolism	Carbon fixation
+M00377	Energy metabolism	Carbon fixation
+M00378	Energy metabolism	Methane metabolism
+M00415	Lipid metabolism	Fatty acid metabolism
+M00416	Energy metabolism	ATP synthesis
+M00417	Energy metabolism	ATP synthesis
+M00418	Xenobiotics biodegradation	Aromatics degradation
+M00419	Xenobiotics biodegradation	Aromatics degradation
+M00422	Energy metabolism	Methane metabolism
+M00432	Amino acid metabolism	Branched-chain amino acid metabolism
+M00433	Amino acid metabolism	Lysine metabolism
+M00525	Amino acid metabolism	Lysine metabolism
+M00526	Amino acid metabolism	Lysine metabolism
+M00527	Amino acid metabolism	Lysine metabolism
+M00528	Energy metabolism	Nitrogen metabolism
+M00529	Energy metabolism	Nitrogen metabolism
+M00530	Energy metabolism	Nitrogen metabolism
+M00531	Energy metabolism	Nitrogen metabolism
+M00532	Carbohydrate metabolism	Other carbohydrate metabolism
+M00533	Amino acid metabolism	Aromatic amino acid metabolism
+M00534	Xenobiotics biodegradation	Aromatics degradation
+M00535	Amino acid metabolism	Branched-chain amino acid metabolism
+M00537	Xenobiotics biodegradation	Aromatics degradation
+M00538	Xenobiotics biodegradation	Aromatics degradation
+M00539	Xenobiotics biodegradation	Aromatics degradation
+M00540	Xenobiotics biodegradation	Aromatics degradation
+M00541	Xenobiotics biodegradation	Aromatics degradation
+M00542 Signature modules	Gene set	Pathogenicity
+M00543	Xenobiotics biodegradation	Aromatics degradation
+M00544	Xenobiotics biodegradation	Aromatics degradation
+M00545	Xenobiotics biodegradation	Aromatics degradation
+M00546	Nucleotide metabolism	Purine metabolism
+M00547	Xenobiotics biodegradation	Aromatics degradation
+M00548	Xenobiotics biodegradation	Aromatics degradation
+M00549	Carbohydrate metabolism	Other carbohydrate metabolism
+M00550	Carbohydrate metabolism	Other carbohydrate metabolism
+M00551	Xenobiotics biodegradation	Aromatics degradation
+M00552	Carbohydrate metabolism	Other carbohydrate metabolism
+M00554	Carbohydrate metabolism	Other carbohydrate metabolism
+M00555	Amino acid metabolism	Serine and threonine metabolism
+M00563	Energy metabolism	Methane metabolism
+M00564 Signature modules	Gene set	Pathogenicity
+M00565	Carbohydrate metabolism	Other carbohydrate metabolism
+M00567	Energy metabolism	Methane metabolism
+M00568	Xenobiotics biodegradation	Aromatics degradation
+M00569	Xenobiotics biodegradation	Aromatics degradation
+M00570	Amino acid metabolism	Branched-chain amino acid metabolism
+M00572	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00573	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00574 Signature modules	Gene set	Pathogenicity
+M00575 Signature modules	Gene set	Pathogenicity
+M00576 Signature modules	Gene set	Pathogenicity
+M00577	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00579	Energy metabolism	Carbon fixation
+M00580	Carbohydrate metabolism	Central carbohydrate metabolism
+M00595	Energy metabolism	Sulfur metabolism
+M00596	Energy metabolism	Sulfur metabolism
+M00597	Energy metabolism	Photosynthesis
+M00598	Energy metabolism	Photosynthesis
+M00608	Energy metabolism	Methane metabolism
+M00609	Amino acid metabolism	Cysteine and methionine metabolism
+M00611 Signature modules	Module set	Metabolic capacity
+M00612 Signature modules	Module set	Metabolic capacity
+M00613 Signature modules	Module set	Metabolic capacity
+M00614 Signature modules	Module set	Metabolic capacity
+M00615 Signature modules	Module set	Metabolic capacity
+M00616 Signature modules	Module set	Metabolic capacity
+M00617 Signature modules	Module set	Metabolic capacity
+M00618 Signature modules	Module set	Metabolic capacity
+M00620	Energy metabolism	Carbon fixation
+M00621	Amino acid metabolism	Serine and threonine metabolism
+M00622	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00623	Xenobiotics biodegradation	Aromatics degradation
+M00624	Xenobiotics biodegradation	Aromatics degradation
+M00625 Signature modules	Gene set	Drug resistance
+M00627 Signature modules	Gene set	Drug resistance
+M00630	Carbohydrate metabolism	Other carbohydrate metabolism
+M00631	Carbohydrate metabolism	Other carbohydrate metabolism
+M00632	Carbohydrate metabolism	Other carbohydrate metabolism
+M00633	Carbohydrate metabolism	Central carbohydrate metabolism
+M00636	Xenobiotics biodegradation	Aromatics degradation
+M00637	Xenobiotics biodegradation	Aromatics degradation
+M00638	Xenobiotics biodegradation	Aromatics degradation
+M00639 Signature modules	Gene set	Drug resistance
+M00641 Signature modules	Gene set	Drug resistance
+M00642 Signature modules	Gene set	Drug resistance
+M00643 Signature modules	Gene set	Drug resistance
+M00649 Signature modules	Gene set	Drug resistance
+M00651 Signature modules	Gene set	Drug resistance
+M00652 Signature modules	Gene set	Drug resistance
+M00660 Signature modules	Gene set	Plant pathogenicity
+M00661	Biosynthesis of other secondary metabolites	Biosynthesis of other fungal compounds
+M00664 Signature modules	Gene set	Symbiosis
+M00672	Biosynthesis of other secondary metabolites	Biosynthesis of beta-lactams
+M00673	Biosynthesis of other secondary metabolites	Biosynthesis of beta-lactams
+M00674	Biosynthesis of other secondary metabolites	Biosynthesis of beta-lactams
+M00675	Biosynthesis of other secondary metabolites	Biosynthesis of beta-lactams
+M00696 Signature modules	Gene set	Drug resistance
+M00697 Signature modules	Gene set	Drug resistance
+M00698 Signature modules	Gene set	Drug resistance
+M00700 Signature modules	Gene set	Drug resistance
+M00702 Signature modules	Gene set	Drug resistance
+M00704 Signature modules	Gene set	Drug resistance
+M00705 Signature modules	Gene set	Drug resistance
+M00714 Signature modules	Gene set	Drug resistance
+M00718 Signature modules	Gene set	Drug resistance
+M00725 Signature modules	Gene set	Drug resistance
+M00726 Signature modules	Gene set	Drug resistance
+M00730 Signature modules	Gene set	Drug resistance
+M00736	Biosynthesis of other secondary metabolites	Biosynthesis of beta-lactams
+M00740	Carbohydrate metabolism	Other carbohydrate metabolism
+M00741	Carbohydrate metabolism	Other carbohydrate metabolism
+M00744 Signature modules	Gene set	Drug resistance
+M00745 Signature modules	Gene set	Drug resistance
+M00746 Signature modules	Gene set	Drug resistance
+M00761	Carbohydrate metabolism	Other carbohydrate metabolism
+M00763	Amino acid metabolism	Arginine and proline metabolism
+M00769 Signature modules	Gene set	Drug resistance
+M00773	Biosynthesis of terpenoids and polyketides	Macrolide biosynthesis
+M00774	Biosynthesis of terpenoids and polyketides	Macrolide biosynthesis
+M00775	Biosynthesis of terpenoids and polyketides	Macrolide biosynthesis
+M00776	Biosynthesis of terpenoids and polyketides	Macrolide biosynthesis
+M00777	Biosynthesis of terpenoids and polyketides	Macrolide biosynthesis
+M00778	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00779	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00780	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00781	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00782	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00783	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00784	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00785	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00786	Biosynthesis of other secondary metabolites	Biosynthesis of other fungal compounds
+M00787	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00788	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00789	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00790	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00793	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00794	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00795	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00796	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00797	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00798	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00799	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00800	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00801	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00802	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00803	Biosynthesis of terpenoids and polyketides	Polyketide sugar unit biosynthesis
+M00804	Energy metabolism	Nitrogen metabolism
+M00805	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00808	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00810	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00811	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00814	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00815	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00819	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00823	Biosynthesis of terpenoids and polyketides	Type II polyketide biosynthesis
+M00824	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00825	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00826	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00827	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00828	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00829	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00830	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00831	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00832	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00833	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00834	Biosynthesis of terpenoids and polyketides	Enediyne biosynthesis
+M00835	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00836	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00837	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00838	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00840	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00841	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00842	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00843	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00844	Amino acid metabolism	Arginine and proline metabolism
+M00845	Amino acid metabolism	Arginine and proline metabolism
+M00846	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00847	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00848	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00849	Biosynthesis of terpenoids and polyketides	Terpenoid backbone biosynthesis
+M00850 Signature modules	Gene set	Pathogenicity
+M00851 Signature modules	Gene set	Drug resistance
+M00852 Signature modules	Gene set	Pathogenicity
+M00853 Signature modules	Gene set	Pathogenicity
+M00854	Carbohydrate metabolism	Other carbohydrate metabolism
+M00855	Carbohydrate metabolism	Other carbohydrate metabolism
+M00856 Signature modules	Gene set	Pathogenicity
+M00857 Signature modules	Gene set	Pathogenicity
+M00859 Signature modules	Gene set	Pathogenicity
+M00860 Signature modules	Gene set	Pathogenicity
+M00861	Lipid metabolism	Fatty acid metabolism
+M00862	Lipid metabolism	Sterol biosynthesis
+M00866	Glycan metabolism	Lipopolysaccharide metabolism
+M00867	Glycan metabolism	Lipopolysaccharide metabolism
+M00868	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00872	Glycan metabolism	Glycan biosynthesis
+M00873	Lipid metabolism	Fatty acid metabolism
+M00874	Lipid metabolism	Fatty acid metabolism
+M00875	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00876	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00877	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00878	Xenobiotics biodegradation	Aromatics degradation
+M00879	Amino acid metabolism	Arginine and proline metabolism
+M00880	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00881	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00882	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00883	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00884	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00889	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00890	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00891	Biosynthesis of other secondary metabolites	Biosynthesis of other fungal compounds
+M00892	Carbohydrate metabolism	Other carbohydrate metabolism
+M00893	Biosynthesis of other secondary metabolites	Biosynthesis of other fungal compounds
+M00894	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00895	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00896	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00897	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00898	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00899	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00900	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00901	Biosynthesis of other secondary metabolites	Biosynthesis of other fungal compounds
+M00902	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00903	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00904	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00905	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00906	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00909	Carbohydrate metabolism	Other carbohydrate metabolism
+M00910	Amino acid metabolism	Aromatic amino acid metabolism
+M00911	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00912	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00913	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00914	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00915	Xenobiotics biodegradation	Aromatics degradation
+M00916	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00917	Lipid metabolism	Sterol biosynthesis
+M00918	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00919	Amino acid metabolism	Serine and threonine metabolism
+M00921	Biosynthesis of other secondary metabolites	Biosynthesis of other bacterial compounds
+M00922	Glycan metabolism	Lipopolysaccharide metabolism
+M00923	Glycan metabolism	Lipopolysaccharide metabolism
+M00924	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00925	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00926	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00927	Biosynthesis of terpenoids and polyketides	Plant terpenoid biosynthesis
+M00928	Biosynthesis of terpenoids and polyketides	Plant terpenoid biosynthesis
+M00929	Biosynthesis of terpenoids and polyketides	Plant terpenoid biosynthesis
+M00930	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00931	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00932	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00933	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00934	Biosynthesis of terpenoids and polyketides	Macrolide biosynthesis
+M00935	Energy metabolism	Methane metabolism
+M00936	Amino acid metabolism	Aromatic amino acid metabolism
+M00937	Biosynthesis of other secondary metabolites	Biosynthesis of other fungal compounds
+M00938	Nucleotide metabolism	Pyrimidine metabolism
+M00939	Nucleotide metabolism	Pyrimidine metabolism
+M00940	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00941	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00942	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00943	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00944	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00945	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00946	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00947	Amino acid metabolism	Other amino acid metabolism
+M00948	Amino acid metabolism	Other amino acid metabolism
+M00949	Amino acid metabolism	Other amino acid metabolism
+M00950	Metabolism of cofactors and vitamins	Cofactor and vitamin metabolism
+M00951	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00952	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00953	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00956	Amino acid metabolism	Lysine metabolism
+M00957	Amino acid metabolism	Lysine metabolism
+M00958	Nucleotide metabolism	Purine metabolism
+M00959	Nucleotide metabolism	Purine metabolism
+M00960	Amino acid metabolism	Lysine metabolism
+M00961	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00962	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00963	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00964	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00965	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00966	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00967	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00968	Carbohydrate metabolism	Other carbohydrate metabolism
+M00969	Biosynthesis of other secondary metabolites	Biosynthesis of other antibiotics
+M00970	Amino acid metabolism	Arginine and proline metabolism
+M00971	Biosynthesis of other secondary metabolites	Biosynthesis of phytochemical compounds
+M00972	Amino acid metabolism	Arginine and proline metabolism
+M00973	Energy metabolism	Nitrogen metabolism
+M00974	Amino acid metabolism	Serine and threonine metabolism
+M00975	Amino acid metabolism	Serine and threonine metabolism
